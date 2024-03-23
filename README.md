@@ -33,7 +33,7 @@ To deploy and manage this application effectively, we leverage Kubernetes and a 
 
 - **PersistentVolume and PersistentVolumeClaim**: These Kubernetes resources manage the storage required for the application, ensuring data persistence and scalability.
 
-### **************************Steps to Deploy**************************
+### ✨**************************Steps to Deploy**************************✨
 
 Create EKS cluster with NodeGroup (2 nodes of t2.medium instance type)
 Create EC2 Instance t2.micro (Optional)
