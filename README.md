@@ -1,4 +1,4 @@
-# ![aws](https://github.com/Ameya-2003/K8s-Voting-App/assets/133382057/83a23517-44c6-41c3-a3c5-e6adb24d3b8a) Cloud-Native Web Voting Appl on Kubernetes with AWS Integration ☸️   
+# ![aws](https://github.com/Ameya-2003/K8s-Voting-App/assets/133382057/83a23517-44c6-41c3-a3c5-e6adb24d3b8a) Cloud-Native Web Voting App on Kubernetes with AWS Integration ☸️   
 
 This cloud-native web application is built using a mix of technologies. It's designed to be accessible to users via the internet, allowing them to vote for their preferred programming language out of six choices: C#, Python, JavaScript, Go, Java, and NodeJS.
 
